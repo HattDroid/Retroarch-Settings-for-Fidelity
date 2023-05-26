@@ -128,6 +128,42 @@ My setup at emulating consoles
 					Video Filter
 						-> Scanline2x.filt
 ---
+	Sega Mega Drive / Genesis
+	---
+		Overlays
+		---
+			Quick Menu
+				On-Screen Overlay
+					Overlay Preset
+						-> bezels/genesis/default.cfg
+		
+		Screen Settings
+		---
+			Settings
+				Video
+					Scaling
+						-> Integer Scale	X
+						-> Keep Aspect Ratio	X
+					Video Filter
+						-> Scanline2x.filt
+---
+	Sega Game Gear
+	---
+		Overlays
+		---
+			Quick Menu
+				On-Screen Overlay
+					Overlay Preset
+						-> GG/GG-480p-final.cfg
+		
+		Screen Settings
+		---
+			Settings
+				Video
+					Scaling
+						-> Integer Scale	X
+						-> Keep Aspect Ratio	X
+---
 	NeoGeo / Arcade all other home consoles
 	---
 		Overlays
